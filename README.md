@@ -1,12 +1,12 @@
 # Winrar-Crack-patch
 In this project, I used reverse engineering to crack app, and for the patch app i use the py language.
 you wll see winrar.exe that app i cracked Manually i used 6.11 v
-Winrar Patcher 6.11 By Ghalwash.exe thats patcher for crack ....soon i will make better keygen for take name and make a activation with that name (أن شاء الله)
+Winrar Patcher 6.11 By Ghalwash.exe thats patcher for crack ....soon i will make better keygen for take name and make a activation with that name (إن شاء الله)
 
 -Time for Reverse Winrar 5 Minutes
 -Time for debuging / fix errors / encypting  18 hours
 -Time for coding patcher 3 hours
-
+to start on reverse engineering, use -x64dbg or x32dbg
 Library used for patcher 
 import os
 import shutil
