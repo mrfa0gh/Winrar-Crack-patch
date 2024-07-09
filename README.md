@@ -20,15 +20,27 @@ import base64
 import io
 Safe 100%
 Checking For cracked Winrar File i Reversed
+
 ![image](https://github.com/mrfa0gh/Winrar-Crack-patch/assets/117339225/3b67cfc6-8b78-4c47-97bb-868be6cd2d84)
+
+-----
 
 Checking For Patcher Winrar File i Coded (i think for Must Run as admin and encryption that he think 3/74 security vendors and no sandboxes flagged this file as malicious)
 
 ![image](https://github.com/mrfa0gh/Winrar-Crack-patch/assets/117339225/67997874-dd73-4a66-9f16-d6ee9c156bcd)
 
+-----
+
 
 
 How to use
 copy winrar.exe  into that path C:\Program Files\WinRAR accept replace now its worked and Activated 
+
+
 ![image](https://github.com/mrfa0gh/Winrar-Crack-patch/assets/117339225/65f24248-b4cc-49e6-87cd-4d27d92d0a7b)
 
+
+------
+
+or run Winrar Patcher 6.11 By Ghalwash.exe as admin then click crack winrar
+![image](https://github.com/mrfa0gh/Winrar-Crack-patch/assets/117339225/2e7601d0-7334-43e4-a6ca-0e529a9f6f16)
